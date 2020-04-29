@@ -13,12 +13,12 @@ h1{
 }
 
 table{
-  border:2px solid black;
+  border:2px solid green;
   border-collapse: collapse;
   padding: 20px;
-  width: 750px;
+  width: 50%;
   height: 100px;
 }
 th,td{
-  border:1px solid black;
+  border:1px solid green;
 }
