@@ -5,7 +5,10 @@ h1{
   color: blue;
   font-style: oblique;
 }
-
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
 #intro{
   font-style: italic;
   color: darkmagenta;
