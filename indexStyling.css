@@ -6,8 +6,7 @@ h1{
   font-style: oblique;
 }
 img{
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 #intro{
   font-style: italic;
@@ -21,9 +20,8 @@ table{
   padding: 20px;
   width: 50%;
   height: 100px;
-  color: #1395d1;
-  margin-left: auto;
-  margin-right: auto;
+  color: #0a10ab;
+  text-align: center;
 }
 th,td{
   border:1px solid black;
