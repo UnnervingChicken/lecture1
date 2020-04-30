@@ -28,3 +28,8 @@ table{
 th,td{
   border:1px solid black;
 }
+
+ul{
+  color: #bf09db;
+  font-size: 20px;
+}
