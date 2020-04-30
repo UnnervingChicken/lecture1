@@ -22,6 +22,8 @@ table{
   width: 50%;
   height: 100px;
   color: #1395d1;
+  margin-left: auto;
+  margin-right: auto;
 }
 th,td{
   border:1px solid black;
