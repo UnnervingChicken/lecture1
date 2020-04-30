@@ -10,7 +10,7 @@ img{
 }
 #intro{
   font-style: italic;
-  color: darkmagenta;
+  color: ##d10d0d;
   font-size: 24px;
 }
 
@@ -25,9 +25,10 @@ table{
 }
 th,td{
   border:1px solid black;
+  text-align: center;
 }
 
 ul{
-  color: #bf09db;
+  color: ##1d591d;
   font-size: 20px;
 }
